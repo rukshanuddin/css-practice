@@ -33,3 +33,7 @@ text-align: center;
 .styledFont{
     color:green;
 }
+img#styledImage{
+  border: 10px solid;
+  padding: 15px;
+}
