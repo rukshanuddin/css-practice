@@ -10,3 +10,9 @@ text-align: center;
 .greenText{
     color:green;
 }
+.bigText{
+    font-size: larger;
+}
+.smallText{
+    font-size: x-small;
+}
