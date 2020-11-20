@@ -16,3 +16,6 @@ text-align: center;
 .smallText{
     font-size: x-small;
 }
+.centeredText{
+    text-align: center;
+}
