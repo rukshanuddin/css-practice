@@ -11,7 +11,7 @@ text-align: center;
     color:green;
 }
 .bigText{
-    font-size: larger;
+    font-size: xx-large;
 }
 .smallText{
     font-size: x-small;
@@ -24,4 +24,9 @@ text-align: center;
 }
 .creativeFont{
     font-family: cursive;
+}
+.bigOrangeBoldText{
+    font-size: xx-large;
+    color:orange;
+    font-weight: bold;
 }
